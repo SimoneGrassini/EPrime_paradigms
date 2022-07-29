@@ -1,0 +1,34 @@
+
+{Begin Comments
+
+}
+{Begin Filters
+Tyyppi
+1
+
+}
+{Begin Rows
+nuoli.RESP	1
+}
+{Begin Cols
+}
+{Begin Data
+nuoli.RESP	2
+}
+{Begin Options
+0
+0
+1
+0
+2
+2
+1
+1
+1
+0
+20
+1
+nuoli.RESP:Count by nuoli.RESP
+1
+nuoli.RESP:Count
+}
