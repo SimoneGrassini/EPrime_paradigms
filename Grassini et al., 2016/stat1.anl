@@ -1,0 +1,33 @@
+
+{Begin Comments
+
+}
+{Begin Filters
+}
+{Begin Rows
+Frames_Image	1
+Rsp1.RESP	1
+}
+{Begin Cols
+category	1
+}
+{Begin Data
+Rsp1.RT	2
+}
+{Begin Options
+0
+0
+1
+0
+2
+2
+1
+1
+1
+0
+8
+1
+Rsp1.RT:Count by Frames_Image, Rsp1.RESP and category
+1
+Rsp1.RT:Count
+}

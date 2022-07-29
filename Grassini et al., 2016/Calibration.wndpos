@@ -1,0 +1,17 @@
+[Object0]
+Name=TrialProc
+WindowState=0
+Left=4
+Top=30
+Width=392
+Height=99
+[Object1]
+Name=SessionProc
+WindowState=0
+Left=48
+Top=88
+Width=392
+Height=99
+[Object2]
+Name=List1
+WindowState=2
